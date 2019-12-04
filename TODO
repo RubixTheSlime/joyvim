@@ -1,0 +1,4 @@
+respond to FocusGained and FocusLost events
+vim.subscribe('FocusGained')
+
+like the whole insert mode
